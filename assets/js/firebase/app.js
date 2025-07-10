@@ -5,7 +5,7 @@
 
   // Your web app's Firebase configuration
   const firebaseConfig = {
-    apiKey: "AIzaSyBd0tVXbcLVKBRZ7teDArqj_uhEbonAtRc",
+    
     authDomain: "projeto-mundo-invertido-cceb5.firebaseapp.com",
     projectId: "projeto-mundo-invertido-cceb5",
     storageBucket: "projeto-mundo-invertido-cceb5.appspot.com",
